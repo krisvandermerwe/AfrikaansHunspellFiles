@@ -1,2 +1,3 @@
 # AfrikaansHunspellFiles
-The Humspell Spellchecking Files needed for Implementation of Afrikaans Language 
+The HunSpell Spellchecking Files needed for Implementation of Afrikaans Language 
+
